@@ -45,5 +45,3 @@ def rename_files():
                 os.rename(old_name, new_name)
     end_function(start_time)
 
-rename_files()
-
